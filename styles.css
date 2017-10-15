@@ -1,0 +1,40 @@
+html{
+    background-color: red;
+}
+body{
+    color:white;
+    margin:0;
+}
+.navbar-brand,.nav-link,.navbar-toggler-icon{
+    color:white;
+}
+
+.pad-section {
+    
+}
+
+#intro{
+    height:100vh;
+    width:100%;
+}
+#more{
+    height:100vh;
+    width:100%;
+}
+#information{
+    height:100vh;
+    width:100%;
+}
+#intro{
+    background:url("https://image.ibb.co/dTNuUQ/emile_perron_190221.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#more{
+    background-color:lightgrey;
+}
+#information{
+    background:url("https://image.ibb.co/dTNuUQ/emile_perron_190221.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
